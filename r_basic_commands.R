@@ -20,7 +20,7 @@ data_2 <- read.csv("oil.csv")
 View(data_2)
 
 
-
+# using as a calculator
 
 
 
